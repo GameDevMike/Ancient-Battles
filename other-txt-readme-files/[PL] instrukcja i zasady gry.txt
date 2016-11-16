@@ -1,0 +1,16 @@
+Ancient Battles jest cyfrow¹ gr¹ planszow¹ 2D w trybie gry hotseat (kilku graczy na jednym komputerze kolejno wykonuje swój ruch).
+
+Zasady gry s¹ proste, jak w klasycznej grze planszowej. W jednej rozgrywce (bitwie) mo¿e uczesticzyæ 2, 3 lub 4 graczy. Pionki maj¹ nastêpuj¹ce kolory:
+ - gracz 1 - CZERWONY
+ - gracz 2 - ZIELONY
+ - gracz 3 - ¿Ó£TY
+ - gracz 4 - NIEBIESKI
+Przed rozpoczêciem rozgrywki gracze musz¹ ustaliæ miêdzy sob¹ kolejnoœæ, w jakiej bêd¹ wykonywaæ swoje ruchy, kolory pionków odpowiadaj¹ kolejnoœci poruszania.
+
+Aby wykonaæ ruch, gracz musi klikn¹æ kostkê w lewym dolnym rogu planszy, a nastêpnie klikn¹æ wyrzucon¹ wartoœæ, która pojawi³a sie na ekranie, w celu przesuniêcia pionka.
+
+Kostka w grze jest czteroœcienna, co oznacza, ¿e mo¿na wyrzuciæ liczbê 1, 2, 3 lub 4.
+
+Plansza sk³ada siê z 40 pól, START to pole 0, a META - pole 39. Wystêpuj¹ na niej pola-pu³apki, które powoduj¹ przesuniêcie pionka do ty³u (czasem nawet na start) oraz specjalne pola, które przesuwaj¹ pionek do przodu, krocz ostro¿nie! Wygrywa ten z graczy, który dotrze na metê jako pierwszy.
+
+Zbierz znajomych i graj, chwa³a czeka!

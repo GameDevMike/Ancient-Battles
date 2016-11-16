@@ -1,0 +1,27 @@
+I am an amateur programmer, doing it as hobby and I try to use my limited skills to create simple games and apps. My knowledge comes from sources available to everyone and there is still much to learn.
+
+I'm glad you got interested in this project, any feedback welcome!
+
+ - Youtube: https://www.youtube.com/channel/UCONB_NSE5QfZczylacHVUSA
+ - Twitter: https://twitter.com/gamedevmike
+ - Website: http://gamedevmike.cba.pl
+ - E-Mail:  gamedevmike@outlook.com
+
+~Micha³ Kubica
+
+------------------------------------------------------------------------------------------
+
+I created Ancient Battles on my own using free and widely available resources.
+The game was written in C++ using Allegro 5 framework.
+The graphics were created in Paint and GIMP2.
+The music was edited in Ashampoo Music Studio 2016.
+Sounds come from the internet.
+The music comes from http://freemusicarchive.org
+
+Soundtrack:
+
+	Artist:		Track:				Album:
+	
+ 1. Scott Holmes 	Vikings Are Coming! 		Music For Commercial Use Volume 1
+ 2. In Vitro 		Preguntas sin respuesta 	Axolotl
+ 3. Unsub		Slow Dance to the Other Side	Perspective 

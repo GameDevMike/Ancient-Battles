@@ -1,0 +1,7 @@
+Requirements:
+ - mouse
+ - keyboard
+ - operating system: Windows 7 (the game may work on other Windows systems, too)
+ - 16:9 display (1600x900 or 1366x768 are recommended resolutions)
+
+Installation is typical, simply run ABsetup.exe to install the game.

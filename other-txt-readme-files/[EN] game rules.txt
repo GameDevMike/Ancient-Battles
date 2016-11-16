@@ -1,0 +1,16 @@
+Ancient Battles is a 2D digital board game in hotseat game mode.
+
+The rules are as simple as in a traditional board game. 2, 3 or 4 players can participate in a single battle. There are four pawn colors:
+ - player 1 - RED
+ - player 2 - GREEN
+ - player 3 - YELLOW
+ - player 4 - BLUE
+Before the battle, players should determine moving order. Pawn colors indicate moving order as shown above.
+
+Moving consists of two things: clicking on the dice in the left bottom corner and clicking on the value that appeared on the screen.
+
+The dice is four-sided, which means you can roll 1, 2, 3 or 4.
+
+The battle arena consists of 40 squares, while START has number 0 and FINISH - number 39. There are traps (which make a pawn move backwards or return to start) and some special squares that help (which make a pawn move forward). Tread carefully! The first player to reach FINISH is the winner.
+
+Gather your buddies and play, glory awaits!

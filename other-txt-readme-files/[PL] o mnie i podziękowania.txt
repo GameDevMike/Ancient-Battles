@@ -1,0 +1,27 @@
+Jestem programist¹ - amatorem, hobbyst¹ i staram siê wykorzystywaæ swoje ograniczone mo¿liwoœci do tworzenia prostych gier i aplikacji. Moja wiedza pochodzi z ogólnodostepnych Ÿróde³ i wci¹¿ jest wiele do nauczenia.
+
+Cieszê siê siê wyrazi³eœ zainteresowanie tym projektem, daj znaæ co o nim myœlisz!
+
+ - Youtube: https://www.youtube.com/channel/UCONB_NSE5QfZczylacHVUSA
+ - Twitter: https://twitter.com/gamedevmike
+ - Website: http://gamedevmike.cba.pl
+ - E-Mail:  gamedevmike@outlook.com
+
+~Micha³ Kubica
+
+------------------------------------------------------------------------------------------
+
+Ancient Battles stworzy³em sam przy u¿yciu darmowych i ogólnodostêpnych œrodków.
+Gra zosta³a napisana w C++ przy u¿yciu frameworka Allegro 5.
+Grafiki tworzy³em w programie Paint oraz GIMP2.
+Muzykê edytowa³em w programie Ashampoo Music Studio 2016.
+DŸwiêki pochodz¹ z internetowych zasobów.
+Muzyka pochodzi ze strony http://freemusicarchive.org
+
+Œcie¿ka dŸwiêkowa:
+
+	Artist:		Track:				Album:
+	
+ 1. Scott Holmes 	Vikings Are Coming! 		Music For Commercial Use Volume 1
+ 2. In Vitro 		Preguntas sin respuesta 	Axolotl
+ 3. Unsub		Slow Dance to the Other Side	Perspective 	

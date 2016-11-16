@@ -1,0 +1,7 @@
+Wymagania:
+ - mysz
+ - klawiatura
+ - system operacyjny Windows 7 (niewykluczone dzia³anie na innych Windowsach)
+ - ekran o proporcjach 16:9 (zalecane rozdzielczoœci 1600x900 oraz 1366x768)
+
+Instalacja jet standardowa, uruchom plik ABsetup.exe aby zainstalowaæ grê.
